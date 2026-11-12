@@ -6,6 +6,8 @@ A visual index of selected applications, architecture explorations and source pr
 
 > **How to read this portfolio:** The images below are **concept and branding presentations**—not proof that the pictured software is live. Some projects have working code in separate repositories, others are still design/requirements exercises. No live customers, financial transactions or production hospital data are represented.
 
+> [Explore detailed user journeys, proposed system architectures and product limitations](docs/CONCEPTS.md)
+
 ## Featured product concepts
 
 The original marks, palettes and interface arrangements come from the supplied project artwork. Each image links to a larger view.
@@ -14,12 +16,14 @@ The original marks, palettes and interface arrangements come from the supplied p
 <tr>
 <td width="50%" valign="top">
 <a href="docs/showcase/conpay.jpg"><img src="docs/showcase/conpay.jpg" alt="CONPAY concept illustration" width="100%" /></a>
+<a href="docs/showcase/conpay-detail.jpg"><img src="docs/showcase/conpay-detail.jpg" alt="conpay detailed board" width="100%" /></a>
 <h3>CONPAY</h3>
 <p><strong>Fintech · concept</strong></p>
 <p>Contactless-inspired consumer/merchant payments, merchant reporting and a proposed secure processing flow.</p>
 </td>
 <td width="50%" valign="top">
 <a href="docs/showcase/manna.jpg"><img src="docs/showcase/manna.jpg" alt="MANNA concept illustration" width="100%" /></a>
+<a href="docs/showcase/manna-architecture.jpg"><img src="docs/showcase/manna-architecture.jpg" alt="manna detailed board" width="100%" /></a>
 <h3>MANNA</h3>
 <p><strong>Bible reader · active beta</strong></p>
 <p>Gold scroll-and-star scripture reader; the React Native/Expo source lives in a private development repository.</p>
@@ -28,12 +32,14 @@ The original marks, palettes and interface arrangements come from the supplied p
 <tr>
 <td width="50%" valign="top">
 <a href="docs/showcase/rova.jpg"><img src="docs/showcase/rova.jpg" alt="ROVA concept illustration" width="100%" /></a>
+<a href="docs/showcase/rova-architecture.jpg"><img src="docs/showcase/rova-architecture.jpg" alt="rova detailed board" width="100%" /></a>
 <h3>ROVA</h3>
 <p><strong>Interstate transport · concept</strong></p>
 <p>Passenger booking, driver GPS, operator control and a central platform admin experience.</p>
 </td>
 <td width="50%" valign="top">
 <a href="docs/showcase/gatewise.jpg"><img src="docs/showcase/gatewise.jpg" alt="GateWise concept illustration" width="100%" /></a>
+<a href="docs/showcase/gatewise-architecture.jpg"><img src="docs/showcase/gatewise-architecture.jpg" alt="gatewise detailed board" width="100%" /></a>
 <h3>GateWise</h3>
 <p><strong>Estate operations · concept</strong></p>
 <p>Visitor invitations, resident entry passes, security checkpoints and estate-admin reporting.</p>
@@ -42,6 +48,7 @@ The original marks, palettes and interface arrangements come from the supplied p
 <tr>
 <td width="50%" valign="top">
 <a href="docs/showcase/keks.jpg"><img src="docs/showcase/keks.jpg" alt="KEKS concept illustration" width="100%" /></a>
+<a href="docs/showcase/keks-architecture.jpg"><img src="docs/showcase/keks-architecture.jpg" alt="keks detailed board" width="100%" /></a>
 <h3>KEKS</h3>
 <p><strong>Local mobility · concept</strong></p>
 <p>Keke ride discovery, booking and driver/operations workflow exploration.</p>
@@ -56,6 +63,7 @@ The original marks, palettes and interface arrangements come from the supplied p
 <tr>
 <td width="50%" valign="top">
 <a href="docs/showcase/nairapay.jpg"><img src="docs/showcase/nairapay.jpg" alt="NairaPay / NPay concept illustration" width="100%" /></a>
+<a href="docs/showcase/nairapay-architecture.jpg"><img src="docs/showcase/nairapay-architecture.jpg" alt="nairapay detailed board" width="100%" /></a>
 <h3>NairaPay / NPay</h3>
 <p><strong>Payments · concept</strong></p>
 <p>Consumer and merchant experiences with transaction and dashboard design; no live payment service implied.</p>
@@ -84,12 +92,14 @@ The original marks, palettes and interface arrangements come from the supplied p
 <tr>
 <td width="50%" valign="top">
 <a href="docs/showcase/zovyra.jpg"><img src="docs/showcase/zovyra.jpg" alt="ZOVYRA concept illustration" width="100%" /></a>
+<a href="docs/showcase/zovyra-detail.jpg"><img src="docs/showcase/zovyra-detail.jpg" alt="zovyra detailed board" width="100%" /></a>
 <h3>ZOVYRA</h3>
 <p><strong>Media experience · concept</strong></p>
 <p>A premium cross-device player/library identity explored through interface mockups.</p>
 </td>
 <td width="50%" valign="top">
 <a href="docs/showcase/aurora-player.jpg"><img src="docs/showcase/aurora-player.jpg" alt="Aurora Player concept illustration" width="100%" /></a>
+<a href="docs/showcase/aurora-player-detail.jpg"><img src="docs/showcase/aurora-player-detail.jpg" alt="aurora-player detailed board" width="100%" /></a>
 <h3>Aurora Player</h3>
 <p><strong>Media experience · concept</strong></p>
 <p>An alternative media-player concept with playback, library, discovery and desktop visual treatments.</p>
